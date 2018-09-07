@@ -1,0 +1,15 @@
+data/
+.ipynb_checkpoints
+spark-warehouse
+jupyter/vivekn-sentiment/ps
+jupyter/vivekn-sentiment/ms
+jupyter/text-matcher/extractor_pipeline
+jupyter/text-matcher/extractor_model
+jupyter/dl-ner/ner_dl_pipeline
+jupyter/dl-ner/ner_dl_model/
+jupyter/dl-ner/crf_pipeline/ 
+jupyter/dl-ner/crf_model/ 
+jupyter/crf-ner/ner_pipeline/
+jupyter/crf-ner/ner_model/ 
+jupyter/crf-ner/crf_pipeline/
+jupyter/crf-ner/crf_model/ 
